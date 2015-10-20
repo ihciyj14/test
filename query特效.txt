@@ -1,0 +1,8 @@
+jquery:http://www.cnblogs.com/lhb25/p/jquery-image-slider-plugins.html
+	图片轮播：http://www.cnblogs.com/lhb25/p/jquery-image-slider-plugins.html
+	
+	图片放大：http://www.360doc.com/content/13/0301/15/11670927_268660581.shtml
+			  http://sc.chinaz.com/jiaobendemo.aspx?downloadid=201525219143
+			  http://sc.chinaz.com/tag_jiaoben/TuPianFangDa.html
+			  
+	菜单特效：http://sc.chinaz.com/jiaoben/caidanhaohang.html
